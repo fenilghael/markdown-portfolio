@@ -8,4 +8,4 @@ linkedin- www.linkedin.com/in/fenil-ghael-1680752a8
 
 ## Navigation  
 - [Home](index.md)  
-- [Projects](projects.md) 
+- [Projects](project.md) 
