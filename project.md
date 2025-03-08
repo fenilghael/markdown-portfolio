@@ -4,5 +4,5 @@
 Description: A responsive website built with HTML, CSS, and JavaScript.  
 
 ## Navigation  
-- [Home](index.markdown)  
-- [Contact](contact.markdown) 
+- [Home](index.md)  
+- [Contact](contact.md) 
